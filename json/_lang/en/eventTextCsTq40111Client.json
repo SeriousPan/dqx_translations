@@ -6,7 +6,7 @@
     "「そなた……天地雷鳴士を　知っているか？<yesno><close>": "Do you... know what a Druid is?<yesno><close>"
   },
   "167321": {
-    "「クスクス……さかしいな。\n　それでこそ　八卦で　見定めたかいがある。": "Haha! You're clearly quite wise. It was worth /nthe effort to divine your fate to help bring/nyou to me."
+    "「クスクス……さかしいな。\n　それでこそ　八卦で　見定めたかいがある。": "Haha! You're clearly quite wise. It was worth \nthe effort to divine your fate to help bring\nyou to me."
   },
   "167322": {
     "「クスクス……それでよい。\n　そなたに　知らしめるために　呼んだのだから。": "Haha... That's fine. After all, I summoned you\nhere to learn about us anyway."
@@ -30,7 +30,7 @@
     "「よかったーーーっ！　目覚めてくれたー！": "Oh what a relief, you're finally awake!"
   },
   "167329": {
-    "「ねえっ　ケガしてない！？　風邪ひいてない！？\n　魂　とびだしてない！？": "Hey, are you hurt?! You haven't caught a\ncold? You look like your soul was about to/nleave your body!"
+    "「ねえっ　ケガしてない！？　風邪ひいてない！？\n　魂　とびだしてない！？": "Hey, are you hurt?! You haven't caught a\ncold? You look like your soul was about to\nleave your body!"
   },
   "167330": {
     "「ほ　ほんとに　ごめんね……。\n　キミを襲うつもりは　なかったの！": "I'm so, so sorry... I didn't mean to hurt you!"
@@ -39,61 +39,61 @@
     "「あっ！　あらためて　自己紹介させて！\n　あたしは　アサヒ！": "Ah! Let me introduce myself again! I'm Asahi!"
   },
   "167332": {
-    "「おちゃめなエルフっ子は　世を忍ぶ仮の姿……": "That mischievous persona of mine is merely my/n disguise to blend into the crowds..."
+    "「おちゃめなエルフっ子は　世を忍ぶ仮の姿……": "That mischievous persona of mine is merely my\n disguise to blend into the crowds..."
   },
   "167333": {
-    "「その正体は天地雷鳴士　陽衆の頭領だよ！\n　まいったか！！": "In reality, I am the leader of the Yang Clan!/nWhat do you think of that, eh?"
+    "「その正体は天地雷鳴士　陽衆の頭領だよ！\n　まいったか！！": "In reality, I am the leader of the Yang Clan!\nWhat do you think of that, eh?"
   },
   "167334": {
     "「そして　ここは　陽衆の隠れ家なの！\n　じゃじゃーーーん！！": "And this is the Yang Clan Hideout! Ta-da!"
   },
   "167335": {
-    "「あはは！　すこーし　さびれてるでしょ！\n　今じゃ　一族は　数人しかいなくて！": "Ha-ha-ha! It might look a little run-down/nright now. But that's only because there isn't/nmany of my clan left!"
+    "「あはは！　すこーし　さびれてるでしょ！\n　今じゃ　一族は　数人しかいなくて！": "Ha-ha-ha! It might look a little run-down\nright now. But that's only because there isn't\nmany of my clan left!"
   },
   "167336": {
     "「ゆーえーにー！　キミを呼んだのだー！！": "That. Is. Why... I summoned you!"
   },
   "167337": {
-    "「あたしの家　陽衆は…… \n　エルトナの歴史の陰で　都を守り続けてきた\n　天地雷鳴士の　宗家なんだ！": "My family, the Yang Clan, have been protecting/nKamiharmui and its people from the shadows/nthroughout history!"
+    "「あたしの家　陽衆は…… \n　エルトナの歴史の陰で　都を守り続けてきた\n　天地雷鳴士の　宗家なんだ！": "My family, the Yang Clan, have been protecting\nKamiharmui and its people from the shadows\nthroughout history!"
   },
   "167338": {
-    "「天地雷鳴士とは　光と陰のはざまに生ける職業。 \n　あまつちにまつわる術を　あやつったり\n　幻魔という　使い魔を呼ぶことができるよ！": "Druids walk the line between the light and/nshadow. We control the powers of Heaven &/nEarth to summon mighty familiars known as <br>Spirits."
+    "「天地雷鳴士とは　光と陰のはざまに生ける職業。 \n　あまつちにまつわる術を　あやつったり\n　幻魔という　使い魔を呼ぶことができるよ！": "Druids walk the line between the light and\nshadow. We control the powers of Heaven &\nEarth to summon mighty familiars known as <br>Spirits."
   },
   "167339": {
     "「はるか昔　カミハルムイの都は\n　千夜嵐という　みぞうの天変地異に襲われてね。": "A long time ago, the city of Kamiharmui was\nstruck by a storm of a thousand nights, a\nnatural calamity."
   },
   "167340": {
-    "「その時　千夜嵐を退けたのが　ご先祖さま！": "It was my ancestor who repelled that terrible/nstorm."
+    "「その時　千夜嵐を退けたのが　ご先祖さま！": "It was my ancestor who repelled that terrible\nstorm."
   },
   "167341": {
-    "「だけど……時代とともに　忘れ去られて \n　数を減らしていって……\n　今では　名を知る人のほうが　少ないよね！": "But... over time, my ancestors deeds had been/nforgotten and the Yang Clans numbers dwindled./nNow... the people in the city don't<br>realise we ever existed."
+    "「だけど……時代とともに　忘れ去られて \n　数を減らしていって……\n　今では　名を知る人のほうが　少ないよね！": "But... over time, my ancestors deeds had been\nforgotten and the Yang Clans numbers dwindled.\nNow... the people in the city don't<br>realise we ever existed."
   },
   "167342": {
     "「ゆーえーにー！　あたし　決めちゃった！！": "Well... I've made up my mind!"
   },
   "167343": {
-    "「あたしの代で　天地雷鳴士を\n　バイーンと　盛りあげようって！！": "I'm going to make the Druid population BOOM!/nUnder my watch we'll be back on top!"
+    "「あたしの代で　天地雷鳴士を\n　バイーンと　盛りあげようって！！": "I'm going to make the Druid population BOOM!\nUnder my watch we'll be back on top!"
   },
   "167344": {
-    "「古い慣習なんて　脱ぎすてちゃって\n　なうで　やんぐな　イケてる人を\n　天地雷鳴士に　勧誘しよーってわけ！": "Out with those old-fashioned, boring customs./nI'm recruiting only the hippest, coolest/nyouths to become Druids!"
+    "「古い慣習なんて　脱ぎすてちゃって\n　なうで　やんぐな　イケてる人を\n　天地雷鳴士に　勧誘しよーってわけ！": "Out with those old-fashioned, boring customs.\nI'm recruiting only the hippest, coolest\nyouths to become Druids!"
   },
   "167345": {
-    "「そんでね！　八卦っていう占いをしたら \n　<pc>という名前の　奇異な星のもとに\n　生まれた人が　王都を訪れると見えたんだ！": "Ya know the funny thing? I performed a/ndivination and it revealed to me that a person/nborn under a strange star, with your exact<br>name, would visit Kamiharmui."
+    "「そんでね！　八卦っていう占いをしたら \n　<pc>という名前の　奇異な星のもとに\n　生まれた人が　王都を訪れると見えたんだ！": "Ya know the funny thing? I performed a\ndivination and it revealed to me that a person\nborn under a strange star, with your exact<br>name, would visit Kamiharmui."
   },
   "167346": {
-    "「もー　この人しかいない！　って \n　ビビっと来ちゃったの　霊感的なアレが！": "And like that, I knew! \"This is the one!\"/nCRACK! Like a bolt of lightning, a jolt of/npure inspiration!"
+    "「もー　この人しかいない！　って \n　ビビっと来ちゃったの　霊感的なアレが！": "And like that, I knew! \"This is the one!\"\nCRACK! Like a bolt of lightning, a jolt of\npure inspiration!"
   },
   "167347": {
-    "「それで……あの……\n　キミを呼びだして　天地雷鳴士の\n　すごいところを　見せようとしたんだけど……": "So... uh... I brought you here to show you/nhow amazing being a Druid is, but..."
+    "「それで……あの……\n　キミを呼びだして　天地雷鳴士の\n　すごいところを　見せようとしたんだけど……": "So... uh... I brought you here to show you\nhow amazing being a Druid is, but..."
   },
   "167348": {
-    "「その……まだまだ　未熟で…… \n　幻魔が言うこと聞かなくて　あんな事故に……。": "I'm still somewhat inexperienced myself.../nThe Spirits won't listen to me and.../it caused an accident."
+    "「その……まだまだ　未熟で…… \n　幻魔が言うこと聞かなくて　あんな事故に……。": "I'm still somewhat inexperienced myself...\nThe Spirits won't listen to me and.../it caused an accident."
   },
   "167349": {
     "「だから　ほんとに　ごめーーーん！！": "So, really, I'm sorry!"
   },
   "167350": {
-    "「あっ　あたしってば……\n　期待の新人さんを　落水させて……": "I talked a big game and ended up knocking you,/na promising initiate, into the water!"
+    "「あっ　あたしってば……\n　期待の新人さんを　落水させて……": "I talked a big game and ended up knocking you,\na promising initiate, into the water!"
   },
   "167351": {
     "「おまけに　幻魔のシュジャクちゃんも\n　逃げちゃって……": "And to top it all off, Peashock ran away..."
